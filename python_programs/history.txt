@@ -1,0 +1,118 @@
+user searched .!entry site for .!entry2 word, finding 10 instances of the worduser searched .!entry site for .!entry2 word, finding 15 instances of the worduser searched .!entry site for .!entry2 word, finding 15 instances of the word
+user searched .!entry site for .!entry2 word, finding 15 instances of the word
+user searched .!entry site for .!entry2 word, finding 15 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for America word, finding 15 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'America', finding 15 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://en.wikipedia.org/wiki/France site for 'Population', finding 0 instances of the word
+user searched https://en.wikipedia.org/wiki/France site for 'population', finding 17 instances of the word
+user searched https://en.wikipedia.org/wiki/France site for 'Paris', finding 22 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'America', finding 15 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'America', finding 15 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'population', finding 14 instances of the word
+user searched https://en.wikipedia.org/wiki/France site for 'Population', finding 0 instances of the word
+user searched https://en.wikipedia.org/wiki/France site for 'population', finding 17 instances of the word
+user searched https://en.wikipedia.org/wiki/France site for 'Paris', finding 22 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'Population ', finding 0 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'population ', finding 0 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'America', finding 2 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'America', finding 15 instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'America', finding 15 instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'Rico', finding 5 instances of the word
+user searched https://oldmachinepress.com site for 'Machine', finding 1 instances of the word
+user searched https://www.geeksforgeeks.org/write-regular-expressions/ site for 'complex', finding 0 instances of the word
+user searched https://www.geeksforgeeks.org/write-regular-expressions/ site for 'complex', finding 0 instances of the word
+user searched https://www.geeksforgeeks.org/write-regular-expressions/ site for 'special', finding 0 instances of the word
+user searched https://www.geeksforgeeks.org/write-regular-expressions/ site for 'How', finding 0 instances of the word
+user searched https://www.geeksforgeeks.org/write-regular-expressions/ site for 'complex', finding 0 instances of the word
+user searched https://www.geeksforgeeks.org/write-regular-expressions/ site for 'programming', finding 1 instances of the word
+user searched https://www.geeksforgeeks.org/write-regular-expressions/ site for 'pattern', finding 2 instances of the word
+user searched https://oldmachinepress.com/ site for 'machine', finding 0 instances of the word
+user searched https://oldmachinepress.com/ site for 'machines', finding 2 instances of the word
+user searched https://oldmachinepress.com/ site for 'technology', finding 0 instances of the word
+user searched https://oldmachinepress.com site for 'technology', finding 1 instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched .!entry site for '.!entry2', finding None instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://Wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://Wikipedia.org/wiki/America site for 'Population', finding 1 instances of the word
+user searched https://Wikipedia.org/wiki/America site for 'Population', finding 1 instances of the word
+user searched https://Wikipedia.org/wiki/United_states site for 'Population', finding 2 instances of the word
+user searched https://wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://wikipedia.org/wiki/United_states site for 'Population', finding 2 instances of the word
+user searched https://wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://wikipedia.org/wiki/United_States site for 'Populatio4534535', finding 0 instances of the word
+user searched https://wikipedia.org/wiki/United_States site for '!@$#^$&+#=+3', finding 0 instances of the word
+user searched https://wikipedia.org/wiki/United_States site for '4 + 4', finding 0 instances of the word
+user searched https://dfhslgd site for 'hsdfs', finding None instances of the word
+failed search attempt, user searched invalid website addressfailed search attempt, user searched invalid website addressfailed search attempt, user searched invalid website addressfailed search attempt, user searched invalid website addressfailed search attempt, user searched invalid website addressfailed search attempt, user searched invalid website addressfailed search attempt, user searched invalid website addressfailed search attempt, user searched invalid website addressfailed search attempt, user searched invalid website addressfailed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+user searched https://wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+failed search attempt, user searched invalid website address
+user searched https://wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+user searched https://wikipedia.org/wiki/France site for 'Population', finding 0 instances of the word
+user searched https://wikipedia.org/wiki/France site for 'population', finding 25 instances of the word
+user searched https://en.wikipedia.org/wiki/United_States site for 'France', finding 7 instances of the word
+user searched https://en.wikipedia.org/wi site for 'France', finding 0 instances of the word
+user searched https://en.wikipedia.org/wi site for 'France', finding 0 instances of the word
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
+user searched https://wikipedia.org/wiki/United_States site for 'Population', finding 2 instances of the word
+failed search attempt, user searched invalid website address
+failed search attempt, user searched invalid website address
